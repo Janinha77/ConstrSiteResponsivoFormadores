@@ -57,6 +57,10 @@ font-weight: 500;
 .conteiner__titulo{
     display: none;
 }
+.opcoes{
+
+    display: none;
+}
 
 @media screen and (min-width:1024px) {
     

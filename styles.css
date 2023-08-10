@@ -9,5 +9,10 @@
 }
 
 body{
-    background-color: var(--cor-de-fundo);
+    background-color: var(--rgba(235, 6, 151, 0.413));
+}
+
+:root{
+    ... 
+    --preto:#000000;
 }
